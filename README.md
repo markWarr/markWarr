@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @markWarr
+- 👋 Hi, I’m @markWarr, Mark Warriner. A UK based developer.
 - 👀 I’m interested in collaborating on open source projects, particularly in public services.
 - 🌱 I’m currently learning Terraform, AWS development
 - 📫 How to reach me: markw @ gmx.com
