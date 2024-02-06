@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markWarr, Mark Warriner. A UK based developer.
 - 👀 I’m interested in collaborating on open source projects, particularly in public services.
-- ✨ My background is in .net/C#, ASP.NET, Angular, JavaScript.
-- 🌱 I’m currently improving my skills in Python, AWS development
+- ✨ My background is in .net/C#, Python, ASP.NET, Angular, JavaScript.
+- 🌱 I’m experienced in AWS development
 
 
 <!---
